@@ -5,6 +5,6 @@ DRO Health technical Assessment
 To replicate the existing pharmarcy feature on the DRO Health app. 
 
 ## Judging Criteria:
-Codebase structure
-Design
-Functionality
+- Codebase structure
+- Design
+- Functionality
