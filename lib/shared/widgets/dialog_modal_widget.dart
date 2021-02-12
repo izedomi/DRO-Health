@@ -51,7 +51,10 @@ class AddToBagDialog extends StatelessWidget {
                             ),
                             SizedBox(height: 16.0),
                             action == "ADD_TO_BAG" ? GestureDetector(
-                                onTap: () => Navigator.pushNamed(context, '/bag_screen'),
+                                onTap: (){
+                                  Navigator.of(context);
+                                  Navigator.pushNamed(context, '/bag_screen');
+                                }, 
                                 child: Container(
                                   alignment: Alignment.center,
                                   padding: EdgeInsets.symmetric(vertical: 12, horizontal: 8),
