@@ -1,12 +1,10 @@
-# DRHealth
-A new Flutter application.
+# DRO Health
+DRO Health technical Assessment
 
-## Getting Started
+## Task
+To replicate the existing pharmarcy feature on the DRO Health app. 
 
-Auth Credentials
-
-
-- email/username : ema@gmail.com
-- password: emmanuel
-
-F
+## Judging Criteria:
+Codebase structure
+Design
+Functionality
